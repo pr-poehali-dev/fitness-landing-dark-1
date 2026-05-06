@@ -281,9 +281,7 @@ export default function Index() {
                         (e.currentTarget as HTMLButtonElement).style.color = "#ccc";
                       }
                     }}
-                  >
-                    Выбрать план
-                  </button>
+                  >ХОЧУ!</button>
                 </a>
               </div>
             ))}
