@@ -190,7 +190,12 @@ export default function Index() {
                 className="flex flex-col items-center justify-center py-8 px-4"
                 style={{ background: "#0d0d0d" }}
               >
-                <span className="font-oswald font-bold text-4xl" style={{ color: "var(--orange)" }}>
+                <span className="font-oswald font-bold text-4xl" style={{
+                  background: "linear-gradient(180deg, #fff5a0 0%, #ff8c00 45%, #c0392b 100%)",
+                  WebkitBackgroundClip: "text",
+                  WebkitTextFillColor: "transparent",
+                  backgroundClip: "text",
+                }}>
                   {s.value}
                 </span>
                 <span
