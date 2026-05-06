@@ -143,15 +143,9 @@ export default function Index() {
               Фитнес-студия • Москва
             </p>
             <h1
-              className="font-oswald font-bold leading-none mb-6 opacity-0-init animate-fade-up delay-200"
+              className="font-oswald font-bold leading-none opacity-0-init animate-fade-up delay-200 mx-[52px] my-0 text-7xl"
               style={{ fontSize: "clamp(3rem, 8vw, 7rem)", color: "#fff" }}
-            >
-              БОЛЬ —
-              <br />
-              <span style={{ color: "var(--orange)" }}>ТВОЁ</span>
-              <br />
-              ТОПЛИВО
-            </h1>
+            >Фитнес студия</h1>
             <p
               className="font-roboto font-light mb-8 max-w-xl opacity-0-init animate-fade-up delay-300"
               style={{ fontSize: "1.1rem", color: "#aaa", lineHeight: 1.75 }}
