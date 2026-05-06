@@ -146,11 +146,11 @@ export default function Index() {
               className="font-oswald font-bold leading-none mb-6 opacity-0-init animate-fade-up delay-200"
               style={{ fontSize: "clamp(3rem, 8vw, 7rem)", color: "#fff" }}
             >
-              СЛОМАЙ
+              БОЛЬ —
               <br />
-              <span style={{ color: "var(--orange)" }}>СВОИ</span>
+              <span style={{ color: "var(--orange)" }}>ТВОЁ</span>
               <br />
-              ПРЕДЕЛЫ
+              ТОПЛИВО
             </h1>
             <p
               className="font-roboto font-light mb-8 max-w-xl opacity-0-init animate-fade-up delay-300"
